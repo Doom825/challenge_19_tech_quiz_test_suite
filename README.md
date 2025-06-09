@@ -6,7 +6,7 @@ This repository adds Cypress component and end-to-end tests to the Tech Quiz app
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   git clone https://github.com/Doom825/challenge_19_tech_quiz_test_suite
    cd challenge_19_quiz_test_suite
    cp server/.env.example server/.env
 # Edit server/.env to set MONGODB_URI (e.g. mongodb://127.0.0.1:27017/techquizdb)
